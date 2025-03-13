@@ -14,18 +14,18 @@ Quam molestie hac magna ante leo. Pharetra vulputate sit tortor praesent fringil
 
 Quam eleifend consectetur ultricies inceptos amet ridiculus. Lacinia nam habitasse magnis; etiam posuere conubia. Eu volutpat pellentesque; dignissim odio sociosqu ultricies imperdiet tincidunt. Nec maecenas ultrices semper erat ullamcorper mauris aptent. 
 
-Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. https://doi.org/10.1234/jpr.2025.003
+Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. [https://doi.org/10.1234/jpr.2025.003]()
 
-Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. https://doi.org/10.1234/jpr.2025.003
+Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. [https://doi.org/10.1234/jpr.2025.003]()
 
-Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. https://doi.org/10.1234/jpr.2025.003
+Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. [https://doi.org/10.1234/jpr.2025.003]()
 
 
 ## Projects
 
 [Integrating AI Helpers in CPT Worksheets](). Quam eleifend consectetur ultricies inceptos amet ridiculus. Lacinia nam habitasse magnis; etiam posuere conubia. Eu volutpat pellentesque; dignissim odio sociosqu ultricies imperdiet tincidunt. Nec maecenas ultrices semper erat ullamcorper mauris aptent. 
 
-[Measuring Mental Health & Opioid Mortality in Kentucky (2019-2022) via Twitter](). Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero? Ornare tortor neque odio, ultricies neque eget urna. Sem ultrices nunc at dapibus et elit. Nibh adipiscing per aliquet primis nec aptent blandit efficitur.
+[Measuring Mental Health & Opioid Mortality in Kentucky (2019-2022) via Twitter](). Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero? Ornare tortor neque odio, ultricies neque eget urna.
 
 [Language-Based Insights into LLM Users for Mental Health](). Quam eleifend consectetur ultricies inceptos amet ridiculus. 
 
