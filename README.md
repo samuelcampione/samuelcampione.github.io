@@ -12,14 +12,24 @@ Quam molestie hac magna ante leo. Pharetra vulputate sit tortor praesent fringil
 
 ## Computer Science & Clinical Psychology
 
-Quam eleifend consectetur ultricies inceptos amet ridiculus. Lacinia nam habitasse magnis; etiam posuere conubia. Eu volutpat pellentesque; dignissim odio sociosqu ultricies imperdiet tincidunt. Nec maecenas ultrices semper erat ullamcorper mauris aptent. Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero? Ornare tortor neque odio, ultricies neque eget urna. Sem ultrices nunc at dapibus et elit. Nibh adipiscing per aliquet primis nec aptent blandit efficitur.
+Quam eleifend consectetur ultricies inceptos amet ridiculus. Lacinia nam habitasse magnis; etiam posuere conubia. Eu volutpat pellentesque; dignissim odio sociosqu ultricies imperdiet tincidunt. Nec maecenas ultrices semper erat ullamcorper mauris aptent. 
 
-Duis enim nisl ornare iaculis luctus nibh quisque. At tristique sodales nullam arcu interdum; metus mi. Posuere ac rhoncus sagittis curae platea fermentum sapien sit facilisi. Lobortis potenti dapibus leo dignissim sodales potenti sodales. Senectus aliquet ornare suscipit ad leo cursus erat dapibus. Viverra tristique finibus penatibus mauris sit arcu suscipit augue sapien. Lectus placerat proin vivamus porttitor ante, senectus etiam mollis.
+Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. https://doi.org/10.1234/jpr.2025.003
+
+Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. https://doi.org/10.1234/jpr.2025.003
+
+Lorem, I., Ipsum, D., & Dolor, S. (2025). Consectetur adipiscing elit: A study on sed do eiusmod tempor. Journal of Placeholder Research, 42(3), 123-145. https://doi.org/10.1234/jpr.2025.003
+
 
 ## Projects
 
-Quam eleifend consectetur ultricies inceptos amet ridiculus. Lacinia nam habitasse magnis; etiam posuere conubia. Eu volutpat pellentesque; dignissim odio sociosqu ultricies imperdiet tincidunt. Nec maecenas ultrices semper erat ullamcorper mauris aptent. Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero? Ornare tortor neque odio, ultricies neque eget urna. Sem ultrices nunc at dapibus et elit. Nibh adipiscing per aliquet primis nec aptent blandit efficitur.
+[Integrating AI Helpers in CPT Worksheets](). Quam eleifend consectetur ultricies inceptos amet ridiculus. Lacinia nam habitasse magnis; etiam posuere conubia. Eu volutpat pellentesque; dignissim odio sociosqu ultricies imperdiet tincidunt. Nec maecenas ultrices semper erat ullamcorper mauris aptent. 
 
-Duis enim nisl ornare iaculis luctus nibh quisque. At tristique sodales nullam arcu interdum; metus mi. Posuere ac rhoncus sagittis curae platea fermentum sapien sit facilisi. Lobortis potenti dapibus leo dignissim sodales potenti sodales. Senectus aliquet ornare suscipit ad leo cursus erat dapibus. Viverra tristique finibus penatibus mauris sit arcu suscipit augue sapien. Lectus placerat proin vivamus porttitor ante, senectus etiam mollis.
+[Measuring Mental Health & Opioid Mortality in Kentucky (2019-2022) via Twitter](). Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero? Ornare tortor neque odio, ultricies neque eget urna. Sem ultrices nunc at dapibus et elit. Nibh adipiscing per aliquet primis nec aptent blandit efficitur.
 
+[Language-Based Insights into LLM Users for Mental Health](). Quam eleifend consectetur ultricies inceptos amet ridiculus. 
+
+[A Well-Being Predictor](). Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero.
+
+[Simulating Dark Triad LLMs Using LoRA Adapters](). Feugiat senectus ornare vulputate magnis litora conubia mi nec. Enim hac ultrices per viverra parturient finibus; consectetur id libero.
 
