@@ -1,5 +1,3 @@
-## About me blurb
-
 I'm a researcher and data scientist at Stanford University in the [Computational Psychology & Well-Being (CPWB) lab](https://cpwb.stanford.edu/people#:~:text=and%20especially%20dancing.-,Samuel%20Campione,-Data%20Scientist%0A%0ASamuel). My background in psychology, linguistics, and data science informs my work in AI, clinical psychology, and NLP. 
 
 I design and build patient and clinician-facing digital mental health tools that are grounded in evidence-based practice (EBPs) for PTSD and emotional disorders. Collaborating with clinical psychologists and computer scientists, I help conduct experiments with our clinical AI tools and evaluate results using statistics and natural language processing. 
